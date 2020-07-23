@@ -39,5 +39,15 @@ B4: gọi phương thức onTouchEvent() của thể hiện lớp Android Gestur
 
 ![image](Untitled18.png)
 
+### Chúc Các Bạn Thành Công !!!
+
+### Bạn Có Thể Xem Bài Tiếp Theo:
+
+- <a href="https://github.com/ChanhMinions/FragmenttrongAndroid">Phát hiện cử chỉ người dùng với lớp Android Gesture Detector!</a>
+
+![image](ezr.png)
+
+                                                     Trần Phú , Ngày 23 tháng 7 Năm 2020
+
 
 
